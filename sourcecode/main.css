@@ -1,0 +1,51 @@
+.posts-wrapper {
+  width: 50%;
+  margin: 20px auto;
+  border: 1px solid;
+}
+.post {
+  width: 90%;
+  margin: 20px auto;
+  padding: 10px 5px 0px 5px;
+  border: 1px solid;
+}
+.post-info {
+  margin: 10px auto 0px;
+  padding: 5px;
+}
+.fa {
+  font-size: 1.2em;
+}
+.fa-thumbs-down, .fa-thumbs-o-down {
+  transform:rotateY(180deg);
+}
+.logged_in_user {
+  padding: 10px 30px 0px;
+}
+i {
+  color: blue;
+}
+.button {
+  background-color: #84B59F; 
+  border: none;
+  color:#ffffff;
+  padding: 7px 65px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  cursor: pointer;
+}
+.button:hover {background-color: #4C6656}
+
+.right{
+  float:right;
+margin-bottom: 3%;
+}
+.left{
+  float:left;
+}
+.content{
+  text-align: center;
+  color: #707070;
+}

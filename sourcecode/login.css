@@ -1,0 +1,83 @@
+body {
+  background-color: #FAF8F6;
+}
+
+#input {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#input2{
+  margin-bottom: 25px;
+}
+#input-register{
+  margin-bottom: 20px;
+}
+.box{
+  margin: auto;
+  margin-top: 125px;
+  width: 40%;
+  height: 50%;
+  display:flex;
+}
+.box-right { 
+  background-color: #ffffff;
+  width: 50%;
+}
+
+.box-left {
+  background-color: #84B59F;
+  width: 50%;
+}
+
+.content{
+  margin-top:80px;
+  color: #ffffff;
+  padding: 5%;
+  margin-top: 38%;
+}
+
+.content-logo{
+  margin-top:80px;
+  color: #ffffff;
+  padding: 5%;
+  margin-top: 38%;
+  text-align: center;
+}
+
+.content-right{
+  margin-top: 80px;
+  color:#707070;
+  text-align: center;
+}
+
+.content-register{
+  margin-top: 49px;
+  color:#707070;
+  text-align: center;
+}
+
+.button {
+  background-color: #84B59F; 
+  border: none;
+  color:#ffffff;
+  padding: 7px 65px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  cursor: pointer;
+}
+.button:hover {background-color: #4C6656}
+
+.button-register{
+  background-color: #84B59F; 
+  border: none;
+  color:#ffffff;
+  padding: 7px 39px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  cursor: pointer;
+}
+.button-register:hover {background-color: #4C6656}

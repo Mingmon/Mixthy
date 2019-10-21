@@ -1,0 +1,54 @@
+.box{
+    margin: auto;
+    display:flex;
+}
+.full{
+    
+    width:25%;
+    height:50%;
+    padding-left: 3%;
+    background-color: #FAF8F6;
+
+}
+.shirt{
+    width:25%;
+    height:50%;
+    padding-left: 3%;
+    background-color: #FAF8F6;
+}
+.pant{
+    width:25%;
+    height:50%;
+    padding-left: 3%;
+    background-color: #FAF8F6;
+}
+.shoe{
+    width:25%;
+    height:50%;
+    padding-left: 3%;
+    background-color: #FAF8F6;
+}
+.content{
+    text-align: center;
+    color: #707070;
+
+}
+.right{
+    float:right;
+}
+
+.button-add {
+    background-color: #84B59F;
+    border: none;
+    color: #ffffff;
+    padding: 11px 65px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  
+  .button-add:hover {
+    background-color: #4C6656
+  }

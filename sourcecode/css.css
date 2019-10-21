@@ -1,0 +1,39 @@
+body{
+    margin :0;
+    font-family: 'Catamaran', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+
+}
+ul.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #EFF1F0;
+}
+li {
+    float: left;
+}
+li.auth{
+    float: right;
+}
+li .logo{
+    display: inline-block;
+    color: #707070;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li .logo:hover {
+    background-color: #ffffff;
+}
+.active {
+    background-color: #ffffff;
+}
+.mySlides {display:none}

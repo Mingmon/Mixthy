@@ -1,0 +1,20 @@
+.box-comment-submit {
+    display: flex;
+    width: 100%;
+}
+
+.button-comment {
+    width: 100%;
+    background-color: #84B59F;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 2%;
+}
+
+.button-comment:hover {
+    background-color: #4C6656
+}
